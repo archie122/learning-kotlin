@@ -4,5 +4,6 @@ fun main(args: Array<String>) {
 //    println(Problem_3.simpleMultiplication((1..10).random()))
 //    println(Problem_4.spinWords("Hey fellow warriors"))
 //    println(Problem_6.removeChar("Sentence"))
-    println(Problem_7.stringToNumber("1234"))
+//    println(Problem_7.stringToNumber("1234"))
+    println(Problem_8.feast("hello", "hello"))
 }
