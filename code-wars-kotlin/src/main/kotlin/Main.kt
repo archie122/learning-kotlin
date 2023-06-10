@@ -6,5 +6,6 @@ fun main(args: Array<String>) {
 //    println(Problem_6.removeChar("Sentence"))
 //    println(Problem_7.stringToNumber("1234"))
 //    println(Problem_8.feast("hello", "hello"))
-    println(Problem_9.addrevName("Hello World!"))
+//    println(Problem_9.addrevName("Hello World!"))
+    println(Problem_11.nextBiggerNumber(2398475))
 }
