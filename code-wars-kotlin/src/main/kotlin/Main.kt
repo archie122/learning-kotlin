@@ -9,5 +9,6 @@ fun main(args: Array<String>) {
 //    println(Problem_9.addrevName("Hello World!"))
 //    println(Problem_11.nextBiggerNumber(2398475))
 //    println(Problem_12.accum("ZpglnRxqenUdkx"))
-    println(Problem_13.past(0, 1, 1))
+//    println(Problem_13.past(0, 1, 1))
+    println(Problem_14.plusOne(intArrayOf(1, 2, 3)))
 }
