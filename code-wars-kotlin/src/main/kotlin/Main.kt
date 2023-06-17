@@ -16,5 +16,6 @@ fun main(args: Array<String>) {
 //    println(Problem_17.findSmallestInt(listOf(111111, 2222, 33, 4, 888, 545, 6, 7, 8, 999999)))
 //    println(Problem_18.lengthOfLastWord("Hello World"))
 //    println(Problem_19.reverseLetter("Hello[17171717]World!"))
-    println(Problem_20.include(intArrayOf(1, 2, 3, 4, 5, 6), 2))
+//    println(Problem_20.include(intArrayOf(1, 2, 3, 4, 5, 6), 2))
+    println(Problem_21.countPositivesSumNegatives(arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15)))
 }
