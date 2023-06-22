@@ -19,5 +19,6 @@ fun main(args: Array<String>) {
 //    println(Problem_20.include(intArrayOf(1, 2, 3, 4, 5, 6), 2))
 //    println(Problem_21.countPositivesSumNegatives(arrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15)))
 //    println(Problem_22.replace("ABCDE"))
-    println(Problem_23.wave("Hello World!"))
+//    println(Problem_23.wave("Hello World!"))
+    println(Problem_24.persistence(25))
 }
