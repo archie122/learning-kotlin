@@ -21,5 +21,6 @@ fun main(args: Array<String>) {
 //    println(Problem_22.replace("ABCDE"))
 //    println(Problem_23.wave("Hello World!"))
 //    println(Problem_24.persistence(25))
-    println(Problem_25.fizzBuzz(25))
+//    println(Problem_25.fizzBuzz(25))
+    println(Problem_29.decode("XXIX"))
 }
