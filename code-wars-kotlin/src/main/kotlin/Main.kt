@@ -23,5 +23,7 @@ fun main(args: Array<String>) {
 //    println(Problem_24.persistence(25))
 //    println(Problem_25.fizzBuzz(25))
 //    println(Problem_29.decode("XXIX"))
-    println(Problem_30.encryptThis("A wise old owl lived in an oak"))
+//    println(Problem_30.encryptThis("A wise old owl lived in an oak"))
+//    println(Problem_32.isLeapYear(1984))
+    println(Problem_33.perimeter(7))
 }
