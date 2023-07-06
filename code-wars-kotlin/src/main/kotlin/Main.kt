@@ -28,5 +28,6 @@ fun main(args: Array<String>) {
 //    println(Problem_33.perimeter(7))
 //    println(Problem_34.sumParts(intArrayOf(0, 1, 3, 6, 10)))
 //    println(Problem_35.maxPizza(3))
-    println(Problem_36.thirt(1234567))
+//    println(Problem_36.thirt(1234567))
+    println(Problem_37.nbDig(5750, 0))
 }
