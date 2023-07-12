@@ -30,5 +30,6 @@ fun main(args: Array<String>) {
 //    println(Problem_35.maxPizza(3))
 //    println(Problem_36.thirt(1234567))
 //    println(Problem_37.nbDig(5750, 0))
-    println(Problem_39.findScreenHeight(1280, "16:9"))
+//    println(Problem_39.findScreenHeight(1280, "16:9"))
+    println(Problem_40.calculateYears(42).joinToString("/"))
 }
